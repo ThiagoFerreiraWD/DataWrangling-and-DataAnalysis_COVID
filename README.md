@@ -1,12 +1,8 @@
-```diff
-- EM CONSTRUÇÃO
-
-```
 # <p align=center> Data Wrangling and Data Analysis COVID </p>
 
 Projeto focado na Transformação, preparação e análise dos dados do Dataset Titanic.
 
-PREPARAR GIF
+![gifCovid](https://user-images.githubusercontent.com/54869201/150561406-aa580e9a-030e-45f2-8c41-03da65b8350a.gif)
 
 #
 
