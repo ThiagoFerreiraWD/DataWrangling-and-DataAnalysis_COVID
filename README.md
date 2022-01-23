@@ -34,8 +34,7 @@ Projeto focado na transformação, preparação e análise exploratória dos dad
 
 ## Contatos:
 
-<div>  
-  
+<div>    
   <a href="https://www.linkedin.com/in/tferreirasilva/">
     <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a> 
