@@ -2,7 +2,9 @@
 
 Projeto focado na transformação, preparação e análise exploratória dos dados disponíveis sobre a COVID-19.
 
-![gifCovid](https://user-images.githubusercontent.com/54869201/150561406-aa580e9a-030e-45f2-8c41-03da65b8350a.gif)
+
+![gifCovid](https://user-images.githubusercontent.com/54869201/150991801-5082af51-2949-41d3-a999-f2700a52c8f1.gif)
+
 
 #
 
